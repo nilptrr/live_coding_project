@@ -1,0 +1,22 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "children" : [ {
+    "name" : "tests.test_profile",
+    "children" : [ {
+      "name" : "Change profile name",
+      "uid" : "be15915701571a11",
+      "parentUid" : "580ab2b5ee2d1d20f04534ba992fdbbf",
+      "status" : "passed",
+      "time" : {
+        "start" : 1716044666717,
+        "stop" : 1716044673519,
+        "duration" : 6802
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "tests.test_profile"
+  } ],
+  "name" : "packages"
+}
